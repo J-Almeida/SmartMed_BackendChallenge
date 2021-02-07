@@ -12,6 +12,7 @@ namespace SmartMedDB.Controllers
     public class MedicationsController : ControllerBase
     {
         private readonly ISmartMedDBRepo _repository;
+        // used to map between the DTOs and their matching objects
         private readonly IMapper _mapper;
 
         public MedicationsController(ISmartMedDBRepo repository, IMapper mapper)

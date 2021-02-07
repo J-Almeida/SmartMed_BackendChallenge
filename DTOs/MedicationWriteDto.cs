@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace SmartMedDB.DTOs
 {
+    // to write a new medication, only the name and quantity are included
     public class MedicationWriteDto
     {
         [Required]
