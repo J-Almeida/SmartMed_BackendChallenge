@@ -1,6 +1,7 @@
 # SmartMed_BackendChallenge
 
 This project was created as my solution to the SmartMed Backend Code Challenge.
+
 Used .NET Core 5.0 + Entity Framework + AutoMapper
 
 Implemented:
