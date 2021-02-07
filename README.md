@@ -14,7 +14,7 @@ POST api/medications/
 ![Add](https://github.com/J-Almeida/SmartMed_BackendChallenge/blob/main/images/add.png)
 
 DELETE api/medications/{id}
-![Delete](https://octodex.github.com/images/yaktocat.png)
+![Delete](https://github.com/J-Almeida/SmartMed_BackendChallenge/blob/main/images/delete.png)
 
 Includes two unit tests:
 ![Tests](https://github.com/J-Almeida/SmartMed_BackendChallenge/blob/main/images/tests.png)
